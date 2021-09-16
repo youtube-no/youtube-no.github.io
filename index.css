@@ -2,4 +2,6 @@ IMG.clonetube{
   position: absolute;
   top: 8px;
   left: 16px;
+  height: 10px;
+  weight: 10px;
 }
