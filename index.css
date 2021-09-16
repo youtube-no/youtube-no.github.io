@@ -5,3 +5,8 @@ IMG.clonetube{
   height: 300px;
   weight: 300px;
 }
+
+div.vt {
+ display; flex;
+ justify-content: center;
+}
