@@ -1,9 +1,9 @@
 IMG.clonetubevideo{
   position: absolute;
-  top: 6px;
-  right: 18px
-  height: 800px;
-  weight: 800px;
+  bottom: 8px;
+  right: 16px;
+  height: 300px;
+  weight: 300px;
 }
 
 video.fun {
