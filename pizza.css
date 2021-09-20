@@ -1,0 +1,16 @@
+body {
+    background-image: url("x1VMUX.jpg");
+}
+IMG.clonetubevideo{
+  position: absolute;
+  bottom: 8px;
+  right: 16px;
+  height: 300px;
+  weight: 300px;
+  cursor: pointer;
+}
+
+video.fun {
+ weight: 800px;
+ height: 800px;
+}
