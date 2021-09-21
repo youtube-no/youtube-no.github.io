@@ -103,9 +103,8 @@ IMG.clonetube{
 }
 
 IMG.Pizza {
-    weight: 700px;
-    height: 700px;
-    width: 8em
+    height: 500px;
+    width: 500px;
 }
 IMG.maintenance {
     display: flex;
